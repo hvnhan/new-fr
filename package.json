@@ -11,15 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/hvnhan/new-fr.git"
   },
-  "keywords": [
-    "fastify",
-    "react",
-    "next",
-    "ssr",
-    "server",
-    "side",
-    "rendering"
-  ],
+  "keywords": [],
   "author": "lazguy",
   "license": "MIT",
   "homepage": "https://github.com",
